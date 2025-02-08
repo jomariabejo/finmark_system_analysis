@@ -1,0 +1,7 @@
+Year,Capacity Used,Failed Sectors,Backup Success Rate,Recovery Tests
+2014,280GB,0,100%,Pass
+2016,350GB,150,95%,Pass
+2018,410GB,300,90%,Warning
+2020,460GB,500,85%,Warning
+2022,485GB,800,80%,Fail
+2024,498GB,1200,75%,Critical

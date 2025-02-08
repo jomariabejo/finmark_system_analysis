@@ -1,0 +1,6 @@
+Component,Installation Date,Last Service,Status,Replacement Due,Column 1,Column 2
+Primary Server,2014,1,2022,5,Critical,Overdue
+Backup Server,2014,1,2021,8,Critical,Overdue
+Storage System,2014,1,2023,3,Critical,Overdue
+Network Switch,2014,1,2020,11,Failing,Overdue
+Tape Drive,2014,1,2019,6,Degraded,Overdue

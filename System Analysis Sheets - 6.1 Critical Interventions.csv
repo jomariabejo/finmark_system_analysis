@@ -1,0 +1,12 @@
+Date,Issue,Resolution,Success Rate,Follow-up Required
+2014-11,Memory overflow,RAM cleanup,100%,Monthly maintenance
+2015-12,Database lockup,Force unlock,90%,Weekly checks
+2016-10,Network timeout,Config update,85%,Daily monitoring
+2017-9,Security breach,Patch deploy,95%,Security audit
+2018-8,Data corruption,Partial restore,80%,Data validation
+2019-7,System freeze,Full restart,75%,Performance check
+2020-6,Authentication fail,Config reset,70%,Access review
+2021-5,Report crash,Engine restart,65%,Queue monitoring
+2022-4,Backup failure,Manual backup,60%,Daily backup check
+2023-3,Query timeout,Cache clear,55%,Query optimization
+2024-2,System outage,Full recovery,50%,System upgrade

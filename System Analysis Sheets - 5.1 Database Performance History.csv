@@ -1,0 +1,7 @@
+Year,Query Time,Index Fragmentation,Failed Transactions,Space Used
+2014,2s,5%,0.50%,280GB
+2016,3.5s,15%,1.20%,350GB
+2018,5.8s,25%,2.50%,410GB
+2020,8.2s,35%,4.00%,460GB
+2022,12.5s,45%,6.50%,485GB
+2024,15.0s,55%,8.00%,498GB
